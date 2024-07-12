@@ -23,7 +23,7 @@ Open Visual Studio and create a new project for the server.
 ###Build the project to generate the executable.
 ###Create another project for the client.
 
-Add client.cpp to the project.
+Add client.cpp to the project.\n
 Build the project to generate the executable.
 Running the Server
 Run the server executable.
